@@ -1,0 +1,4 @@
+name: DivineMind
+version: '${project.version}'
+main: org.kauazs.divinemind.DivineMind
+api-version: '1.21'
